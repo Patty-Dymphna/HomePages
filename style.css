@@ -1,0 +1,45 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+color: white;
+}
+h1{
+    font-size: 30px;
+    font-family: trebuchet ms;
+    text-align: center;
+}
+h2{
+    font-size: 60px;
+    font-family: Trebuchet Ms;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    font-family: trebuchet Ms;
+}
+h4{
+    font-family: Trebuchet Ms;
+}
+span{
+  color: darkgoldenrod;
+}
+.contacts{
+    font-size: 30px;
+    font-family: trebuchet Ms;
+}
+.heading{
+    background-color: #e7eaf6;
+    padding: 50px 50px;
+}
+@media (max-width:576px) {
+  h2{
+    font-size: 40px;
+  }   
+  h1{
+    font-size: 20px;
+  }
+ .smaller{
+    font-style: italic;
+ }
+}
